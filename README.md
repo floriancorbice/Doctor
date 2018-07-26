@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Doctolib killer App
 
-Things you may want to cover:
+Ici on a :
 
-* Ruby version
+* Ruby version de thp tu peux check
 
 * System dependencies
 
 * Configuration
 
 * Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
